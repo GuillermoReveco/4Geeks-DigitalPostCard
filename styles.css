@@ -58,6 +58,7 @@ p {
 input {
 	border: none;
 	border-bottom: 1px solid black;
+	margin-right: 10px;
 }
 .postcard-footer {
 	text-align: center;
